@@ -1,10 +1,5 @@
 # @kirbotica  
-Hacker, Computer Science student at Kirby U, Etobicoke Campus. Computer Security student at Offensive Security.
-Lead creative and technical developer of the Hacks Poetic series of projects.
-
-
-
-
+Hacker, sysadmin, Writer, Electronics Assembler, Programmer, Troubleshooter and Tester in Etobicoke, Ontario. Computing personally and professionally on all manner of platforms since 1980.
 
 <!---
 kirbotica/kirbotica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
